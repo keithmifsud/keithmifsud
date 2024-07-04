@@ -6,10 +6,11 @@ Full-stack developer and senior engineer.
 
 Been coding professionally for 15 years
 
-*   🌍  I'm based everywhere there's an internet connection
-*   🖥️  See my portfolio at [Website and Blog](http://keith-mifsud.me)
+*   🌍 I'm based everywhere there's an internet connection
+*   🖥️ See my portfolio at [Website and Blog](http://keith-mifsud.me)
 *   ✉️  You can contact me at [https://keith-mifsud.me/contact](mailto:https://keith-mifsud.me/contact)
-*   🚀  I'm currently working on [SwellBrands](http://swellbrands.co/)
+*   🚀 I recently launched [Softalk AI](https://swellai.ltd/solutions/softalk-ai)
+*   💼 I'm CEO and Founder of [SwellAI Ltd](https://swellai.ltd/)
 
 <a href="https://www.twitter.com/keithmifsud" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/keithmifsud?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
