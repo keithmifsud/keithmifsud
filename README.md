@@ -7,6 +7,7 @@ Full-stack developer and senior engineer.
 Been coding professionally for 15 years
 
 *   🌍 I'm based everywhere there's an internet connection
+*   🤖 Expert in [AI Integration Services ](https://keith-mifsud.me/ai-integration-services)
 *   🖥️ See my portfolio at [Website and Blog](http://keith-mifsud.me)
 *   ✉️  You can contact me at [https://keith-mifsud.me/contact](https://keith-mifsud.me/contact)
 *   🚀 I recently launched [Softalk AI](https://swellai.ltd/solutions/softalk-ai)
