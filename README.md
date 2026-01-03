@@ -9,7 +9,7 @@ Been coding professionally for 15 years
 *   🌍 I'm based everywhere there's an internet connection
 *   🤖 Expert in [AI Integration Services ](https://keith-mifsud.me/ai-integration-services)
 *   🖥️ See my portfolio at [Website and Blog](http://keith-mifsud.me)
-*   👨🏼‍💼 [Official Nuxt Enterprise Agency Partner](https://nuxt.com/enterprise/agencies/keith-mifsud) [Nuxt Consultant](https://keith-mifsud.me/services/nuxt-consultant/)
+*   👨🏼‍💼 [Official Nuxt Enterprise Agency Partner](https://nuxt.com/enterprise/agencies/keith-mifsud) - [Nuxt Consultant](https://keith-mifsud.me/services/nuxt-consultant/)
 *   ✉️  You can contact me at [https://keith-mifsud.me/contact](https://keith-mifsud.me/contact)
 *   🚀 I recently launched [Softalk AI](https://swellai.ltd/solutions/softalk-ai)
 *   💼 I'm CEO and Founder of [SwellAI Ltd](https://swellai.ltd/)
